@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface>
+  <object class="GtkApplicationWindow" id="window">
+    <property name="default-width">800</property>
+    <property name="default-height">600</property>
+    <property name="title">~new file~</property>
+    <child>
+      <object class="GtkNotebook" id="notebook">
+      </object>
+    </child>
+  </object>
+</interface>
+

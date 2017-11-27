@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Vanilla Text
+Comment=A simple text editor
+Exec=/usr/bin/vanilla_text
+Icon=vanilla_text
+Terminal=false
+
